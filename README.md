@@ -262,20 +262,10 @@ Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanj
 
 ---
 
-## 📞 Kontak / Contact
-
-Jika ada pertanyaan atau saran, silakan hubungi melalui:
-
-- 📧 Email: [your-email@example.com]
-- 🌐 Website: [your-website.com]
-- 💼 LinkedIn: [your-linkedin]
-
----
-
 <div align="center">
 
 **⭐ Jika proyek ini bermanfaat, berikan bintang di GitHub! ⭐**
 
-*Powered by Machine Learning | © 2024 mudio24*
+*Powered by Machine Learning | © 2026 mudio24*
 
 </div>
